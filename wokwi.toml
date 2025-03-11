@@ -1,0 +1,9 @@
+[wokwi]
+version = 1
+elf = ".pio/build/esp32dev/firmware.elf"
+firmware = ".pio/build/esp32dev/firmware.bin"
+
+[monitor]
+baud = 115200
+
+gdbServerPort = 3333
